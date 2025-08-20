@@ -1,0 +1,14 @@
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\bin\Debug\net9.0\jogodavelha.exe
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\bin\Debug\net9.0\jogodavelha.deps.json
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\bin\Debug\net9.0\jogodavelha.runtimeconfig.json
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\bin\Debug\net9.0\jogodavelha.dll
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\bin\Debug\net9.0\jogodavelha.pdb
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\obj\Debug\net9.0\jogodavelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\obj\Debug\net9.0\jogodavelha.AssemblyInfoInputs.cache
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\obj\Debug\net9.0\jogodavelha.AssemblyInfo.cs
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\obj\Debug\net9.0\jogodavelha.csproj.CoreCompileInputs.cache
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\obj\Debug\net9.0\jogodavelha.dll
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\obj\Debug\net9.0\refint\jogodavelha.dll
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\obj\Debug\net9.0\jogodavelha.pdb
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\obj\Debug\net9.0\jogodavelha.genruntimeconfig.cache
+C:\Users\449445\Documents\Estrutura-de-dados\jogodavelha\obj\Debug\net9.0\ref\jogodavelha.dll
