@@ -1,0 +1,15 @@
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\bin\Debug\net9.0\fatorial.exe
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\bin\Debug\net9.0\fatorial.deps.json
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\bin\Debug\net9.0\fatorial.runtimeconfig.json
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\bin\Debug\net9.0\fatorial.dll
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\bin\Debug\net9.0\fatorial.pdb
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\obj\Debug\net9.0\fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\obj\Debug\net9.0\fatorial.AssemblyInfoInputs.cache
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\obj\Debug\net9.0\fatorial.AssemblyInfo.cs
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\obj\Debug\net9.0\fatorial.csproj.CoreCompileInputs.cache
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\obj\Debug\net9.0\fatorial.sourcelink.json
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\obj\Debug\net9.0\fatorial.dll
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\obj\Debug\net9.0\refint\fatorial.dll
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\obj\Debug\net9.0\fatorial.pdb
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\obj\Debug\net9.0\fatorial.genruntimeconfig.cache
+C:\Users\449445\Documents\Estrutura-de-dados\fatorial\obj\Debug\net9.0\ref\fatorial.dll
